@@ -1,0 +1,4 @@
+NAME                      CPU(cores)   MEMORY(bytes)   
+centos1-df6f998bb-gxqhz   0m           1Mi             
+mayapp                    22m          15Mi            
+redis                     2m           1Mi             
